@@ -11,7 +11,11 @@ La inteligencia artificial generará tres palabras aleatorias con las que el usu
 Todo texto es momentáneo, breve, humano. Todo intento de esconder nuestras preocupaciones o alegrías, nuestras admiraciones o reservas, por desgracia, insuficiente.
 
 V. L. V.
+
 Zapopan, 25 de octubre de 2024
+
+
+
 
 
 Notas. En caso de que no tenga instalada la librería openai, ejecute el comando 'pip install openai' en la terminal.
