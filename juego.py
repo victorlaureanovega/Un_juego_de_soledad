@@ -3,7 +3,7 @@ import openai
 user = openai.OpenAI(api_key="insertar llave")
 
 print("JUEGO DE VOCABULARIO EN PYTHON CON CHATGPT\n\n")
-print("Bienvenido. Generaré tres palabras aleatorias, con las que deberás escribir una oración.\n")
+print("Bienvenido. Generaré tres palabras aleatorias con las que deberás escribir una oración.\n")
 print("Cuando desees terminar el juego, escribe 'salir'.\n\n")
 
 assistant = user.beta.assistants.create(
