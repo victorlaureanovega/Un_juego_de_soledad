@@ -16,7 +16,7 @@ Zapopan, 25 de octubre de 2024
 
 
 
-
+\n\n\n\n
 
 Notas. En caso de que no tenga instalada la librería openai, ejecute el comando 'pip install openai' en la terminal.
 
