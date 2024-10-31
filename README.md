@@ -14,10 +14,6 @@ V. L. V.
 
 Zapopan, 25 de octubre de 2024
 
-
-
-\n\n\n\n
-
 Notas. En caso de que no tenga instalada la librería openai, ejecute el comando 'pip install openai' en la terminal.
 
 Si necesita una llave api, ingrese al siguiente enlace: https://platform.openai.com/docs/overview y cree una cuenta o inicie sesión. Haga clic en el ícono circular en la esquina superior derecha, busque la pestaña “User API keys” y genere una nueva. Luego, péguela en la tercera línea del código, sustituyendo “insertar llave”.
