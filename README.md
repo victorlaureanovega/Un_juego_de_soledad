@@ -1,6 +1,6 @@
 # Un_juego_de_soledad
 
-Días pasados leí que la esencia de toda palabra es el Tiempo. Tan curiosa sentencia (curiosa por lo menos), me parece, es una paráfrasis del argumento ontológico de Berkeley, aunque también podría haber sido la tesis de algún poema de Sor Juana o de Jorge Luis Borges. Si hay algo capaz de comprender y de conciliar las ciencias, me parece, es la literatura.
+Días pasados leí que la esencia de toda palabra es el Tiempo. Tan curiosa sentencia (curiosa por lo menos), me parece, es una paráfrasis del argumento ontológico de Berkeley, aunque también podría haber sido la tesis de algún poema de Sor Juana o de Jorge Luis Borges. Si hay algo capaz de comprender y de conciliar las ciencias, creo, es la literatura.
 
 Este código data de octubre del año pasado, cuando veía en la programación una forma de escribir cosas, ya no sobre ellas. Son pocas las que se prestan para tales juegos, superadas por la intemporalidad del asombro.
 
@@ -13,6 +13,9 @@ Todo texto es momentáneo, breve, humano. Todo intento de esconder nuestras preo
 V. L. V.
 
 Zapopan, 25 de octubre de 2024
+
+
+
 
 Notas. En caso de que no tenga instalada la librería openai, ejecute el comando 'pip install openai' en la terminal.
 
